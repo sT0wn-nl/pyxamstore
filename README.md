@@ -5,6 +5,7 @@ This is a python3 variant of pyxamstore, forked from https://github.com/jakev/py
 Git clone source code to a installation dir:
 ```
 git clone https://github.com/sT0wn-nl/pyxamstore
+cd pyxamstore
 ```
 Create an virtual environment, and activate it:
 ```
